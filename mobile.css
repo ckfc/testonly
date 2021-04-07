@@ -3,7 +3,9 @@ body {
   background-color: #eee;
 }
 #container {
-  width: 300px;
+/*  width: 300px; */
+  width: 95%;
+
   margin: 20vw auto;
 }
 
